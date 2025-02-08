@@ -62,7 +62,7 @@ let gltfObjectHelper: THREE.BoxHelper;
 
 // gltfファイルの読み込み
 const gltfLoader = new GLTFLoader();
-gltfLoader.load(`${VITE_GITHUB_PAGES_PATH}assets/models/model.glb`, (data) => {
+gltfLoader.load(`${VITE_GITHUB_PAGES_PATH}/assets/models/model.glb`, (data) => {
 	gltfObject = data;
 
 	// 不要っぽい
@@ -95,7 +95,6 @@ ticker();
 
 // リサイズ
 const resize = () => {
-	console.log("hoge");
 	const width = window.innerWidth;
 	const height = window.innerHeight;
 

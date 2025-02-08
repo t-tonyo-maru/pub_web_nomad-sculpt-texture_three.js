@@ -1,18 +1,20 @@
 # template_web_threejs
 
-## TODO
+## Environment
 
-- Spine アニメーションに影をつけられるようにしたい
+| Tool    | Version      |
+| ------- | ------------ |
+| Node.js | v22.13.0(\*) |
+
+(\*)This project should probably run under v22 of Node.js.
 
 ## Quik start
 
-## Directory structure
+1. npm install
+2. npm run dev
+
+## URL
+
+https://t-tonyo-maru.github.io/pub_web_nomad-sculpt-texture_three.js/
 
 ## Links
-
-- Three.js
-  - [Three.js](https://threejs.org/)
-  - [Three.jsでの最適なリサイズ処理](https://ics.media/tutorial-three/renderer_resize/)
-- Three.js x Spine
-  - [spine-ts/spine-threejs/example](https://github.com/EsotericSoftware/spine-runtimes/tree/4.2/spine-ts/spine-threejs/example)
-    - [spine-ts/spine-threejs/example/index.html](https://github.com/EsotericSoftware/spine-runtimes/blob/4.2/spine-ts/spine-threejs/example/index.html)
