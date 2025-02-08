@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.13.0",
-    "@types/three": "^0.167.1",
+    "@types/three": "^0.173.0",
     "dotenv": "^16.4.5",
     "prettier": "^3.2.5",
     "typescript": "^5.2.2",
@@ -20,7 +20,6 @@
     "vitest": "^1.6.0"
   },
   "dependencies": {
-    "@esotericsoftware/spine-threejs": "^4.2.58",
-    "three": "^0.167.1"
+    "three": "^0.173.0"
   }
 }
