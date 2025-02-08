@@ -21,7 +21,6 @@
   },
   "dependencies": {
     "@esotericsoftware/spine-threejs": "^4.2.58",
-    "lil-gui": "^0.19.2",
     "three": "^0.167.1"
   }
 }
